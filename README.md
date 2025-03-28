@@ -1,4 +1,4 @@
-# youphoto ✨
+# YouPhoto AI ✨
 
 👋 Welcome to the GitHub space for **youphoto.ai**! We're passionate about exploring the creative intersection of photography 📸 and artificial intelligence 🤖. Our main platform, [youphoto.ai](https://youphoto.ai/), offers tools designed to transform and enhance your images in magical ways.
 
