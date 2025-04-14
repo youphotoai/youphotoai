@@ -1,5 +1,14 @@
 # YouPhoto AI ✨
 
+##2025.04.14 Update
+*   **🚀 NEW! AI Action Figure Generator:** Turn photos into awesome collectible toy styles! Try it here: **[Action Figure Generator](https://youphoto.ai/action-figure-generator)**
+*   **🎨 Style Library Expansion:** Alongside popular styles like our **[Ghibli AI Generator](https://youphoto.ai/ghibli-ai-generator)**, we've added more options and improved browsing on the main site **[YouPhoto.ai](https://youphoto.ai/)**.
+*   **🖱️ UI/UX Improvements:** Enhanced style visibility and categorization for easier navigation across all features.
+
+We're continuing to expand our easy-to-use AI photo editing tools. Stay tuned for more styles!
+![YouPhoto AI](https://images.indiehackers.com/post-images/WIhJ8gEbX6ubkUeNaN5w/aCdJ59gYDHSdSc39IL5ERGrWtNG2/-2025-04-14-153833.png?w=1400?w=1400))
+
+
 👋 Welcome to the GitHub space for **[youphoto.ai](https://youphoto.ai/)**! We're passionate about making creative AI photo editing fun and accessible for everyone 🤖📸. Our platform offers tools to transform, enhance, and restyle your images in magical ways.
 
 ## YouPhoto.ai: Your All-in-One AI Photo Editor 🚀
