@@ -3,10 +3,8 @@
 ## [2025.04.17] Update ✨
 
 *   **👤 NEW! AI Avatar Maker:** Generate diverse profile pics & character styles from your photos! Now includes styles like App Avatar, Caricature, Fatter, Q Avatar, Stickers & more! Explore it here: **[AI Avatar Maker](https://youphoto.ai/avatar-maker)**
-*   
 ![YouPhoto AI Avatar Maker](https://i.imgur.com/1JTaujX.png)
 
-*   _Previous updates remain below..._
 
 ## 2025.04.14 Update
 *   **🚀 NEW! AI Action Figure Generator:** Turn photos into awesome collectible toy styles! Try it here: **[Action Figure Generator](https://youphoto.ai/action-figure-generator)**
