@@ -1,5 +1,10 @@
 # YouPhoto AI ✨
 
+## [2025.04.24] Update ✨
+
+*   **🔥 NEW! AI Meme Generator:** Instantly turn your photos into hilarious memes! Choose from popular styles like Wojak, Soyjak, Troll Face, Cursed & more. Try it now: **[AI Meme Generator](https://youphoto.ai/meme-generator)**
+![YouPhoto AI Meme Generator](https://i.imgur.com/CFS4EC9.png)
+
 ## [2025.04.17] Update ✨
 
 *   **👤 NEW! AI Avatar Maker:** Generate diverse profile pics & character styles from your photos! Now includes styles like App Avatar, Caricature, Fatter, Q Avatar, Stickers & more! Explore it here: **[AI Avatar Maker](https://youphoto.ai/avatar-maker)**
